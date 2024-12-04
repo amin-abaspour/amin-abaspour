@@ -1,6 +1,6 @@
 **projects:**<br/>
-my own markdown reader, with latex, paste image, search files, etc, get rid of obsidian<br/>
-my own c complier and then making some apps with it<br/>
+markdown reader, with latex, paste image, search files, etc, get rid of obsidian<br/>
+c complier and then making some apps with it<br/>
 minimal persian calendar for windows, probably c#<br/>
 
 

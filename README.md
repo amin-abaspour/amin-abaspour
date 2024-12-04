@@ -10,7 +10,7 @@ dsp
 experiments, maybe something like a blog<br/>
 some product level ui showcases<br/>
 
-**implementing x from first principles:**<br/>
+**first principles appraoch to:**<br/>
 [mathematics](https://github.com/amin-abaspour/mathematics)<br/>
 [physics](https://github.com/amin-abaspour/physics)<br/>
 [computer science](https://github.com/amin-abaspour/computer-science)<br/>

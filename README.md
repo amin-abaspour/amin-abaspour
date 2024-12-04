@@ -3,8 +3,8 @@ live preview markdwon editor, with vim bindings, latex math, paste image, search
 c complier and then making some apps with it<br/>
 minimal persian calendar for windows, probably c#<br/>
 telegram bot to handle messages<br/>
-dsp
-somehow need to make a newsflow
+dsp<br/>
+somehow need to make a newsflow<br/>
 
 
 **ui**:<br/>

@@ -10,5 +10,7 @@ implementing from first principles:<br/>
 [geography](https://github.com/amin-abaspour/geography)<br/>
 
 ---
+stackexchange<br/>
+[leetcode](https://leetcode.com/u/amin-abaspour/)<br/>
+kaggle<br/>
 
-[leetcode](https://leetcode.com/u/amin-abaspour/)

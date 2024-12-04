@@ -9,7 +9,7 @@ implementing from first principles:<br/>
 [audio & music](https://github.com/amin-abaspour/music)<br/>
 [geography](https://github.com/amin-abaspour/geography)<br/>
 
-links:
+links:<br/>
 stackexchange<br/>
 [leetcode](https://leetcode.com/u/amin-abaspour/)<br/>
 kaggle<br/>

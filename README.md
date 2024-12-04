@@ -1,7 +1,7 @@
-[Mathematics](https://github.com/amin-abaspour/mathematics)<br/>
-[Physics](https://github.com/amin-abaspour/physics)<br/>
-[Computer Science](https://github.com/amin-abaspour/computer-science)<br/>
-[Computer Graphics](https://github.com/amin-abaspour/computer-graphics)<br/>
-[Neural Networks](https://github.com/amin-abaspour/neural-networks)<br/>
-[Audio & Music](https://github.com/amin-abaspour/music)<br/>
-[Geography](https://github.com/amin-abaspour/geography)<br/>
+[mathematics](https://github.com/amin-abaspour/mathematics)<br/>
+[physics](https://github.com/amin-abaspour/physics)<br/>
+[computer science](https://github.com/amin-abaspour/computer-science)<br/>
+[computer graphics](https://github.com/amin-abaspour/computer-graphics)<br/>
+[neural networks](https://github.com/amin-abaspour/neural-networks)<br/>
+[audio & music](https://github.com/amin-abaspour/music)<br/>
+[geography](https://github.com/amin-abaspour/geography)<br/>

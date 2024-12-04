@@ -21,6 +21,8 @@ some product level ui showcases<br/>
 
 **posts:**<br/>
 from physics to computer scinece, gonna write in detail<br/>
+a conceptual exploration of modern mathematics<br/>
+
 
 **links:**<br/>
 stackexchange<br/>

@@ -4,6 +4,7 @@ c complier and then making some apps with it<br/>
 minimal persian calendar for windows, probably c#<br/>
 telegram bot to handle messages<br/>
 dsp
+somehow need to make a newsflow
 
 
 **ui**:<br/>

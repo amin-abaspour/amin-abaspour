@@ -1,3 +1,6 @@
-[Pure Python Mathematics](https://github.com/amin-abaspour/PurePythonMathematics)
-
-
+[Mathematics](https://github.com/amin-abaspour/PurePythonMathematics)
+[Physics](https://github.com/amin-abaspour/PurePythonPhysics)
+[Computer Science](https://github.com/amin-abaspour/PurePythonComputerScience)
+[Computer Graphics](https://github.com/amin-abaspour/PurePythonComputerGraphics)
+[Neural Networks](https://github.com/amin-abaspour/PurePythonComputerNeuralNetworks)
+[Audio & Music](https://github.com/amin-abaspour/PurePythonComputerMusic)

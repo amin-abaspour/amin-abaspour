@@ -1,4 +1,4 @@
-implementing from first principles:
+implementing from first principles:<br/>
 [mathematics](https://github.com/amin-abaspour/mathematics)<br/>
 [physics](https://github.com/amin-abaspour/physics)<br/>
 [computer science](https://github.com/amin-abaspour/computer-science)<br/>

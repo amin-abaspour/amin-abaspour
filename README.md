@@ -20,7 +20,7 @@ some product level ui showcases<br/>
 [geography](https://github.com/amin-abaspour/geography)<br/>
 
 **posts:**<br/>
-from physics to computer scinece, gonna write in detail<br/>
+from classical mechanics to data structures, gonna write in detail<br/>
 a conceptual exploration of modern mathematics<br/>
 
 

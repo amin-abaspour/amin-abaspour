@@ -6,7 +6,7 @@ minimal persian calendar for windows, probably c#<br/>
 
 
 **ui**:<br/>
-experiments<br/>
+experiments, maybe something like a blog<br/>
 some product level ui showcases<br/>
 
 **implementing x from first principles:**<br/>

@@ -1,6 +1,6 @@
-projects:<br/>
+###### projects:<br/>
 
-implementing from first principles:<br/>
+###### implementing from first principles:<br/>
 [mathematics](https://github.com/amin-abaspour/mathematics)<br/>
 [physics](https://github.com/amin-abaspour/physics)<br/>
 [computer science](https://github.com/amin-abaspour/computer-science)<br/>
@@ -9,7 +9,7 @@ implementing from first principles:<br/>
 [audio & music](https://github.com/amin-abaspour/music)<br/>
 [geography](https://github.com/amin-abaspour/geography)<br/>
 
-links:<br/>
+###### links:<br/>
 stackexchange<br/>
 [leetcode](https://leetcode.com/u/amin-abaspour/)<br/>
 kaggle<br/>

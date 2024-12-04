@@ -1,11 +1,13 @@
 **projects:**<br/>
 my own markdown reader, with latex, paste image, search files, etc, get rid of obsidian<br/>
 my own c complier and then making some apps with it<br/>
+minimal persian calendar for windows, probably c#<br/>
+
 
 
 **ui**:<br/>
-my website
-some ui showcases with nuxt and next
+experiments<br/>
+some product level ui showcases<br/>
 
 **implementing x from first principles:**<br/>
 [mathematics](https://github.com/amin-abaspour/mathematics)<br/>

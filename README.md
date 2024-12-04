@@ -3,7 +3,9 @@ my own markdown reader, with latex, paste image, search files, etc, get rid of o
 my own c complier and then making some apps with it<br/>
 
 
-**ui**<br/>
+**ui**:<br/>
+my website
+some ui showcases with nuxt and next
 
 **implementing x from first principles:**<br/>
 [mathematics](https://github.com/amin-abaspour/mathematics)<br/>

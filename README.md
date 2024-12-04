@@ -19,6 +19,9 @@ some product level ui showcases<br/>
 [audio & music](https://github.com/amin-abaspour/music)<br/>
 [geography](https://github.com/amin-abaspour/geography)<br/>
 
+**posts:**<br/>
+from physics to computer scinece, gonna write in detail<br/>
+
 **links:**<br/>
 stackexchange<br/>
 [leetcode](https://leetcode.com/u/amin-abaspour/)<br/>

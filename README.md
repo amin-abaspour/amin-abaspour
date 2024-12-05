@@ -12,13 +12,13 @@ experiments, maybe something like a blog<br/>
 some product level ui showcases<br/>
 
 **first principles appraoch to:**<br/>
-[mathematics](https://github.com/amin-abaspour/mathematics)<br/>
-[physics](https://github.com/amin-abaspour/physics)<br/>
-[computer science](https://github.com/amin-abaspour/computer-science)<br/>
-[computer graphics](https://github.com/amin-abaspour/computer-graphics)<br/>
-[neural networks](https://github.com/amin-abaspour/neural-networks)<br/>
-[audio & music](https://github.com/amin-abaspour/music)<br/>
-[geography](https://github.com/amin-abaspour/geography)<br/>
+[mathematics](https://github.com/ma-abaspour/mathematics)<br/>
+[physics](https://github.com/ma-abaspour/physics)<br/>
+[computer science](https://github.com/ma-abaspour/computer-science)<br/>
+[computer graphics](https://github.com/ma-abaspour/computer-graphics)<br/>
+[neural networks](https://github.com/ma-abaspour/neural-networks)<br/>
+[audio & music](https://github.com/ma-abaspour/music)<br/>
+[geography](https://github.com/ma-abaspour/geography)<br/>
 
 **posts:**<br/>
 from classical mechanics to data structures, gonna write in detail<br/>
@@ -27,6 +27,6 @@ a conceptual exploration of modern mathematics<br/>
 
 **links:**<br/>
 stackexchange<br/>
-[leetcode](https://leetcode.com/u/amin-abaspour/)<br/>
+[leetcode](https://leetcode.com/u/ma-abaspour/)<br/>
 kaggle<br/>
 

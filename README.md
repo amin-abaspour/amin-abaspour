@@ -11,7 +11,7 @@ somehow need to make a newsflow with custom integrations<br/>
 experiments, maybe something like a blog<br/>
 some product level ui showcases<br/>
 
-**first principles appraoch to:**<br/>
+**first principles approach to:**<br/>
 [mathematics](https://github.com/ma-abaspour/mathematics)<br/>
 [physics](https://github.com/ma-abaspour/physics)<br/>
 [computer science](https://github.com/ma-abaspour/computer-science)<br/>

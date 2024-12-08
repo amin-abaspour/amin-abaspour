@@ -22,7 +22,7 @@ some product level ui showcases<br/>
 
 **posts:**<br/>
 [from classical mechanics to data structures, a technical history of mathematics, science and engineering.](https://github.com/ma-abaspour/history)<br/>
-a conceptual exploration of modern mathematics<br/>
+[a conceptual exploration of modern mathematics](https://github.com/ma-abaspour/explorational-mathematics)<br/>
 
 
 **links:**<br/>

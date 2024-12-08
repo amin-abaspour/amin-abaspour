@@ -21,7 +21,7 @@ some product level ui showcases<br/>
 [geography](https://github.com/ma-abaspour/geography)<br/>
 
 **posts:**<br/>
-from classical mechanics to data structures, gonna write in detail<br/>
+[from classical mechanics to data structures, a technical history of mathematics, science and engineering.](https://github.com/ma-abaspour/history)<br/>
 a conceptual exploration of modern mathematics<br/>
 
 
